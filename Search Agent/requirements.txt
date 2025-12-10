@@ -1,0 +1,10 @@
+streamlit
+langchain
+duckduckgo-search
+openai
+python-dotenv
+serpapi
+requests
+langchain-community
+langchain-openai
+google-search-results

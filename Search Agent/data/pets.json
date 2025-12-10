@@ -1,0 +1,7 @@
+[
+  {"name": "Dog", "description": "Domesticated mammal, loyal and friendly."},
+  {"name": "Cat", "description": "Independent, playful, and curious pet."},
+  {"name": "Parrot", "description": "Colorful bird, can mimic human speech."},
+  {"name": "Hamster", "description": "Small rodent, popular for children."},
+  {"name": "Rabbit", "description": "Gentle, quiet, and social animal."}
+]
